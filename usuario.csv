@@ -1,0 +1,4 @@
+id, nome, email, carga, departamento, status
+1, Ana Silva, ana@email.com, 1, TI, ativo
+2, Maria Silva, maria@email.com, 2358, Testes, ativo
+3, Geraldo Rocha, geraldo@email.com, 7893, DS, nativo
